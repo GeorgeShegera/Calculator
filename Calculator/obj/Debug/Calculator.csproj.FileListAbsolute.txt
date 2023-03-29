@@ -1,0 +1,22 @@
+E:\WinForms\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\WinForms\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\WinForms\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\WinForms\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\WinForms\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\WinForms\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\WinForms\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\Мой диск\C# learning\WinForms\Calculator\Calculator\obj\Debug\Calculator.pdb
